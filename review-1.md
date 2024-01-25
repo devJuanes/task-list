@@ -2,7 +2,7 @@
 Mi producto es una aplicación de gestión de tareas que ayuda a los usuarios a organizar sus actividades diarias de manera eficiente. Sirve como una herramienta práctica para administrar responsabilidades y maximizar la productividad.
 
 ¿Cuáles son las funcionalidades más importantes y por qué los usuarios las usarían?
-Creación de Tareas Rápida: Los usuarios pueden agregar fácilmente nuevas tareas con solo unos pocos clics, lo que les permite capturar rápidamente sus ideas y compromisos.
+Creación de Tareas Rápida: Los usuarios pueden agregar fácilmente nuevas tareas con solo unos pocos clics, lo que les permite capturar rápidamente sus ideas y compromisos. 
 
 Priorización de Tareas: La capacidad de asignar prioridades a las tareas ayuda a los usuarios a enfocarse en lo más importante, garantizando que las actividades críticas se completen primero.
 
